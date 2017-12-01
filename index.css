@@ -1,0 +1,10 @@
+body {
+    background-color: lightskyblue;
+    
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}

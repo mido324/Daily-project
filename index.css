@@ -1,5 +1,6 @@
 body {
-    background-color: lightskyblue;
+    background-color: rgb(205, 223, 233);
+    line-height: 40px;
     
 }
 a:link {
@@ -7,4 +8,8 @@ a:link {
 }
 a:hover {
     text-decoration: underline;
+}
+h3 {
+    background-color:rgb(141, 223, 35);
+    text-align: center;
 }
